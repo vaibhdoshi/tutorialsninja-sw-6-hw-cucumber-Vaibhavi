@@ -1,0 +1,6 @@
+2022-12-19 14:12:257 INFO  HomePage :68 - mousehover on laptops and notebooks link and click[[ChromeDriver: chrome on WINDOWS (bc59bb3949beac4c454b72d3778ff4a1)] -> link text: Laptops & Notebooks]
+2022-12-19 14:12:334 INFO  LaptopAndNotebooksPage :22 - getlaptops and notebooks text[[ChromeDriver: chrome on WINDOWS (bc59bb3949beac4c454b72d3778ff4a1)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2022-12-19 14:12:903 INFO  HomePage :73 - mousehover on components link and click[[ChromeDriver: chrome on WINDOWS (0fb7960d6d7b9398031d92a9e3401554)] -> link text: Components]
+2022-12-19 14:12:873 INFO  ComponentsPage :21 - get components text[[ChromeDriver: chrome on WINDOWS (0fb7960d6d7b9398031d92a9e3401554)] -> xpath: //h2[contains(text(),'Components')]]
+2022-12-19 14:12:866 INFO  HomePage :73 - mousehover on components link and click[[ChromeDriver: chrome on WINDOWS (10b9df4b40e64dca87da513f1e2698d3)] -> link text: Components]
+2022-12-19 14:12:155 INFO  ComponentsPage :21 - get components text[[ChromeDriver: chrome on WINDOWS (10b9df4b40e64dca87da513f1e2698d3)] -> xpath: //h2[contains(text(),'Components')]]
